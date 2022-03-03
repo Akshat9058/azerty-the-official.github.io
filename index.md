@@ -1,37 +1,133 @@
-## Welcome to GitHub Pages
+<html>
+  <head>
+		
+		<title>Home</title>
 
-You can use the [editor on GitHub](https://github.com/Akshat9058/azerty-the-official.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+		
+		
+		
+	  <link rel = "icon" href = "/aaaaaa.ico" type = "image/x-icon"> 
+		
+    <link href="https://fonts.googleapis.com/css2?family=Righteous&display=swap" rel="stylesheet">
+		
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+		<link rel="apple-touch-icon" href="/aaaaaa.ico">
+		<meta name="apple-mobile-web-app-status-bar" content="black">
+		<meta name="theme-color" content="black">
+		<script src="/app.js"></script>
 
-### Markdown
+		
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    <meta name="google-site-verification" content="XSpR3sZZ2Puq7A2L6S8AoJ39tcv2hPep0CtrCEbNdCY" />
+		
+  </head>
+	<style>
+		.topnav {
+	  overflow: hidden;
+		  background-color: white;
+		  border-radius: 8px;
+		}
 
-```markdown
-Syntax highlighted code block
+		.topnav a {
+		  float: left;
+		  color: #000;
+		  text-align: center;
+		  padding: 14px 16px;
+		  text-decoration: none;
+		  font-size: 17px;
+		  transition: all 0.3s ease;
+		}
 
-# Header 1
-## Header 2
-### Header 3
+		.topnav a:hover {
+		  background-image: linear-gradient(to bottom right, #6900fc, #6900fc, blue);
+		  color: white;
+		}
+		
+		.topnav a.active {
+		  background-image: linear-gradient(to bottom, black, black, black);
+		  color: white;
+		}
+		
+		.row-full{
+		  background: white;
+		  color: black; 
+		  width: 100vw;
+		  position: relative;
+		  margin-left: -50vw;
+		  margin-top: 100px;
+		  left: 50%;
+		  text-align: center;
+		}
+		.row-full-1{
+		  background: blue;
+		  width: 100vw;
+		  position: relative;
+		  margin-left: -50vw;
+		  margin-top: 100px;
+		  left: 50%;
+		  text-align: center;
+		}
+		.row-full-2{
+		  background: red;
+		  color: white; 
+		  width: 100vw;
+		  position: relative;
+		  margin-left: -50vw;
+		  margin-top: 100px;
+		  left: 50%;
+		  text-align: center;
+		}
+	</style>
+  
+<body style="background:black; font-family: 'Righteous'; color: white;">
+  <b>
+ <div class="topnav">
+  <a class="active">Home</a>
+  <a href="https://qwerty.qwerty2011.repl.co" >Qwerty</a>
+  <a href="https://qwertz.qwerty2011.repl.co">Qwertz</a>
+  <a href="https://blog.qwerty2011.repl.co">Blog</a>
+      <a href="https://elements.qwerty2011.repl.co"><mark style="background: red;color: white">El</mark><mark style="background: blue;color: white">em</mark><mark style="background: green;color: white">en</mark><mark  style="background: #919eb3;color: white">ts</mark></a>
+  <a href="https://hotcold.qwerty2011.repl.co">
+  <mark style="background: red; color: white">Fire</mark> VS <mark style="background: blue; color: white"">Water</mark>
+  </a>
 
-- Bulleted
-- List
+</div> 	
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+<br>
+<br>
+<br>
+<div style="background-image: linear-gradient(to bottom right, #6900fc, #6900fc, blue); color: white; height: 240px; border-radius: 10px; ">
+	<br>
+      <h1 style="text-align: center; font-size: 70; ">Azerty<b></b></h1>
+		
+</div>
+			<br>
+<br>
+<br>
+<div class="row-full" style="background: white; color: black">
+  <h2 style="text-align: center;">Qwerty</h2>
+  <p style="text-align: center;">Qwerty Is A Keyboard Design For Latin-Script Alphabets.<Br>
+  <Br>
+   The Name Comes From The Order Of The First Six Keys On The Top Left Letter Row Of The Keyboard (Q.W.E.R.T.Y).<Br>
+   <Br> The Qwerty Design Is Based On A Layout Created For The Sholes And Glidden Typewriter And Sold To E.<Br><Br> Remington And Sons In 1873.</p>
 
-[Link](url) and ![Image](src)
-```
+</div>
+<h2 style="text-align: center;">Azerty</h2>
+<p style="text-align: center;">Azerty Is A Specific Layout For The Characters Of The Latin Alphabet On Typewriter Keys And Computer Keyboards.<Br><Br> The Layout Takes Its Name From The First Six Letters To Appear On The First Row Of Alphabetical Keys; That Is.<Br><Br> Similar To The German Qwertz Layout, It Is Modelled On The English Qwerty Layout.
+ </p>
+<div id="div" class="row-full-1">
+  <H2>Qwertz</H2>
+  Qwertz Is A Specific Layout For The Characters Of The German Alphabet On Typewriter Keys And Computer Keyboards.<Br><Br> The Layout Takes Its Name From The First Five Letters Of The Qwerty And The Letter Z (Q.W.E.R.T.Z).<Br><Br> It Is Similar To The Azerty Layout.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+</div>
+<script src="//code.tidio.co/f5x3dq9n4paofzb591awbu84anqayxoc.js" async></script>
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Akshat9058/azerty-the-official.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+		<script>
+if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.register('/sw.js');
+}
+</script>
+</b>
+</html>
